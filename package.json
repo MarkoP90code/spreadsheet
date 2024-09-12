@@ -1,0 +1,14 @@
+{
+  "name": "spreadsheet",
+  "version": "1.0.0",
+  "description": "spreadsheet",
+  "scripts": {
+    "start": "paecel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Marko P",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
